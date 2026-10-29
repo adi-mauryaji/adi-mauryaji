@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="thanks for stopping by  ✦">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  </defs>
+  <text x="600" y="48" text-anchor="middle" style="font: 16px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, 'DejaVu Sans Mono', monospace; fill: #8b949e; letter-spacing: 3px;">thanks for stopping by  ✦</text>
+  <path d="M-600 110 Q-450.0 94 -300.0 110 T0 110 T300 110 T600 110 T900 110 T1200 110 T1500 110 T1800 110 V170 H-600Z" fill="url(#g)" fill-opacity="0.25"><animateTransform attributeName="transform" type="translate" from="0 0" to="600 0" dur="9s" repeatCount="indefinite"/></path>
+  <path d="M-600 122 Q-450.0 110 -300.0 122 T0 122 T300 122 T600 122 T900 122 T1200 122 T1500 122 T1800 122 V170 H-600Z" fill="url(#g)" fill-opacity="0.35"><animateTransform attributeName="transform" type="translate" from="600 0" to="0 0" dur="7s" repeatCount="indefinite"/></path>
+  <path d="M-600 136 Q-450.0 127 -300.0 136 T0 136 T300 136 T600 136 T900 136 T1200 136 T1500 136 T1800 136 V170 H-600Z" fill="url(#g)" fill-opacity="0.6"><animateTransform attributeName="transform" type="translate" from="0 0" to="600 0" dur="5s" repeatCount="indefinite"/></path>
+</svg>
