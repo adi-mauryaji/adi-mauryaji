@@ -9,7 +9,7 @@ from xml.sax.saxutils import escape
 OUT = Path(__file__).resolve().parent.parent
 
 # ---------------------------------------------------------------- CONTENT
-NAME = "Adi Maurya"
+NAME = "Aditya Maurya"
 STATUS = "currently building Kestrel"
 TAGLINES = [
     "AI engineer · building AI that runs on your machine",
